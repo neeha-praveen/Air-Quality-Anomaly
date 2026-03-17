@@ -1,0 +1,43 @@
+# Python
+**pycache**/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+.env/
+
+# Environment variables
+.env
+
+# Spark Streaming
+checkpoints/
+**/checkpoints/
+**/commits/
+**/offsets/
+**/sources/
+**/state/
+checkpoints/air_quality/
+
+spark-warehouse/
+
+# Data files
+data/raw_stream/
+*.csv
+*.json
+
+# Logs
+*.log
+logs/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor settings
+.vscode/
+.idea/
+
+# Temp files
+*.tmp
+*.swp
