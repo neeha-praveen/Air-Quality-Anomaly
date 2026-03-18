@@ -41,3 +41,9 @@ Thumbs.db
 # Temp files
 *.tmp
 *.swp
+
+.env
+historical_done.txt
+checkpoints/
+jars/
+__pycache__/
