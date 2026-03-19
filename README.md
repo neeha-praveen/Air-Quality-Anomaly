@@ -59,7 +59,8 @@ The Kibana dashboard shows the last 6 hours of data and auto-refreshes every 5 s
 - **Anomaly Count** — total number of anomalies detected
 - **Anomalies Table** — which cities are currently flagged
 - **Pollution Severity Gauge** — overall average PM2.5 with Good/Moderate/Dangerous color bands
-
+![alt text](image.png)
+![alt text](image-1.png)
 ---
 
 ## 🔬 Anomaly Detection
