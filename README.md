@@ -47,7 +47,7 @@ The pipeline runs in two phases. First it replays 8 years of historical AQI data
 
 ## 📊 Dashboard
 
-The Kibana dashboard shows the last 6 hours of data and auto-refreshes every 5 seconds. Here's what's on it:
+The Kibana dashboard shows the last 3 days of data and auto-refreshes every 5 seconds. Here's what's on it:
 
 - **Live PM2.5 by City** — real-time pollution trends for all 6 cities
 - **AQI Score Over Time** — CPCB AQI score trends so you can see if things are getting worse
